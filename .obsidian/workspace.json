@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/rocnik-2/letni-semestr/APPS/teorie/test-otevren-i-py-es-obsidian-url.md",
+                "file": "docs/rocnik-2/letni-semestr/APPS/teorie/cv-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test-otevren-i-py-es-obsidian-url"
+              "title": "cv-1"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "137c57d91cb282dc",
   "lastOpenFiles": [
+    "docs/rocnik-2/letni-semestr/APPS/teorie/nov-y.md",
     "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian.md",
     "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian2.md",
     "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian3.md"

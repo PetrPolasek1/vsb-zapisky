@@ -21,3 +21,4 @@ Tento web slouží jako osobní znalostní databáze ke studiu na VŠB.
 - UTI – Úvod do teoretické informatiky
 - TAMZ – Tvorba aplikací pro mobilní zařízení I
 - TDS – Technologie databázových systémů I
+
