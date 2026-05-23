@@ -21,3 +21,64 @@
   align-items: center;
   justify-content: center;
 }
+
+.semestersGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.semesterCard {
+  padding: 48px;
+  margin-bottom: 0;
+}
+
+.subjectGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px;
+  margin-top: 32px;
+}
+
+.subjectCard {
+  min-height: 190px;
+  padding: 28px;
+}
+
+.emptySemester {
+  margin-top: 28px;
+  padding: 28px 32px;
+  border: 1px dashed rgba(255, 255, 255, 0.18);
+  border-radius: 20px;
+  color: rgba(255, 255, 255, 0.72);
+  background: rgba(255, 255, 255, 0.025);
+}
+
+@media (max-width: 996px) {
+  .semesterCard {
+    padding: 32px;
+  }
+
+  .subjectGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+  }
+}
+
+@media (max-width: 640px) {
+  .semestersGrid {
+    gap: 40px;
+  }
+
+  .semesterCard {
+    padding: 24px;
+  }
+
+  .subjectGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .subjectCard {
+    min-height: 150px;
+  }
+}
