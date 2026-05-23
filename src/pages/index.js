@@ -52,6 +52,11 @@ const semesters = [
     semesterNumber: '5. semestr',
     description: 'Zápisky, teorie, cvičení a projekty pro tento semestr.',
     subjects: [
+      {
+        code: 'TEST',
+        name: 'Testovací předmět',
+        link: '/docs/rocnik-3/zimni-semestr/TEST',
+      },
     ],
   },
 ];
