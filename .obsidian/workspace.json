@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f0fd251b8446610e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6758181ea6c9b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137c57d91cb282dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/rocnik-2/letni-semestr/APPS/teorie/test-otevren-i-py-es-obsidian-url.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test-otevren-i-py-es-obsidian-url"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2557b323b70a68b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a5c824884dc667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6e7229630aa3df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Průzkumník souborů"
+            }
+          },
+          {
+            "id": "9772f4a2039a56cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Hledat"
+            }
+          },
+          {
+            "id": "8aed18d4420adad0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Záložky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "abb5ad55456d7555",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee0451064acc928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4969125a4a1b835",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy"
+            }
+          },
+          {
+            "id": "95cc386246e74e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy"
+            }
+          },
+          {
+            "id": "c0c6cbd4da8fe595",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Štítky"
+            }
+          },
+          {
+            "id": "3aca5fc5e9ff361b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Všechny vlastnosti"
+            }
+          },
+          {
+            "id": "a52e829adbc2b81b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Přehled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Vytvořit nový canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "bases:Vytvořit novou základnu": false
+    }
+  },
+  "active": "137c57d91cb282dc",
+  "lastOpenFiles": [
+    "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian.md",
+    "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian2.md",
+    "docs/rocnik-2/letni-semestr/APPS/teorie/test-obsidian3.md"
+  ]
+}
