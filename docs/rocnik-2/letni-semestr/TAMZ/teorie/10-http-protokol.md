@@ -1,7 +1,6 @@
 ---
 title: HTTP protokol
 sidebar_label: HTTP protokol
-sidebar_position: 10
 ---
 
 # HTTP protokol

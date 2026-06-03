@@ -1,7 +1,6 @@
 ---
 title: Subresource Integrity
 sidebar_label: Subresource Integrity
-sidebar_position: 19
 ---
 
 # Subresource Integrity

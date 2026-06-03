@@ -1,7 +1,6 @@
 ---
 title: BOM – Browser Object Model
 sidebar_label: BOM – Browser Object Model
-sidebar_position: 7
 ---
 
 # BOM – Browser Object Model

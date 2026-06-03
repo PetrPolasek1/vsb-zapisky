@@ -1,7 +1,6 @@
 ---
 title: XML
 sidebar_label: XML
-sidebar_position: 17
 ---
 
 # XML

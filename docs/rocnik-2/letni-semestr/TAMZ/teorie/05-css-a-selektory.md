@@ -1,7 +1,6 @@
 ---
 title: CSS a selektory
 sidebar_label: CSS a selektory
-sidebar_position: 5
 ---
 
 # CSS a selektory

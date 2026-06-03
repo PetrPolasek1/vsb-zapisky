@@ -1,7 +1,6 @@
 ---
 title: OTA, webové aplikace a načítání zdrojů
 sidebar_label: OTA, webové aplikace a načítání zdrojů
-sidebar_position: 2
 ---
 
 # OTA, webové aplikace a načítání zdrojů

@@ -1,7 +1,6 @@
 ---
 title: Low-level GUI, Canvas, SVG a WebGL
 sidebar_label: Low-level GUI, Canvas, SVG a WebGL
-sidebar_position: 11
 ---
 
 # Low-level GUI, Canvas, SVG a WebGL

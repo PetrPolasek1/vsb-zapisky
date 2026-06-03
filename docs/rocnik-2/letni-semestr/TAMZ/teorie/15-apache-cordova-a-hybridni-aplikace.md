@@ -1,7 +1,6 @@
 ---
 title: Apache Cordova a hybridní aplikace
 sidebar_label: Apache Cordova a hybridní aplikace
-sidebar_position: 15
 ---
 
 # Apache Cordova a hybridní aplikace

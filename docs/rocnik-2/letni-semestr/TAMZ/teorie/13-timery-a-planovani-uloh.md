@@ -1,7 +1,6 @@
 ---
 title: Timery a plánování úloh
 sidebar_label: Timery a plánování úloh
-sidebar_position: 13
 ---
 
 # Timery a plánování úloh

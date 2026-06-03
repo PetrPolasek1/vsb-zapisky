@@ -1,7 +1,6 @@
 ---
 title: DOM – Document Object Model
 sidebar_label: DOM – Document Object Model
-sidebar_position: 8
 ---
 
 # DOM – Document Object Model

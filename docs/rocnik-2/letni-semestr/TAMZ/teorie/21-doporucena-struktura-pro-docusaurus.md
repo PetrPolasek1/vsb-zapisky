@@ -1,7 +1,6 @@
 ---
 title: Doporučená struktura pro Docusaurus
 sidebar_label: Doporučená struktura pro Docusaurus
-sidebar_position: 21
 ---
 
 # Doporučená struktura pro Docusaurus

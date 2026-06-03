@@ -1,7 +1,6 @@
 ---
 title: HTML základy
 sidebar_label: HTML základy
-sidebar_position: 3
 ---
 
 # HTML základy

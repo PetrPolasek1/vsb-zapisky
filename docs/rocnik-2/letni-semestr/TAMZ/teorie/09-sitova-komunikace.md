@@ -1,7 +1,6 @@
 ---
 title: Síťová komunikace
 sidebar_label: Síťová komunikace
-sidebar_position: 9
 ---
 
 # Síťová komunikace

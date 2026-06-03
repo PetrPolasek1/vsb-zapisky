@@ -1,7 +1,6 @@
 ---
 title: Rychlý JavaScript tahák
 sidebar_label: Rychlý JavaScript tahák
-sidebar_position: 22
 ---
 
 # Rychlý JavaScript tahák

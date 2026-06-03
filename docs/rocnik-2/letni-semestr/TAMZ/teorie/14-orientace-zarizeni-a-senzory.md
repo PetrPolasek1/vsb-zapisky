@@ -1,7 +1,6 @@
 ---
 title: Orientace zařízení a senzory
 sidebar_label: Orientace zařízení a senzory
-sidebar_position: 14
 ---
 
 # Orientace zařízení a senzory

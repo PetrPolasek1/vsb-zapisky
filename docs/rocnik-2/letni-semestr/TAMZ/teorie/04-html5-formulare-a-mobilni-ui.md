@@ -1,7 +1,6 @@
 ---
 title: HTML5 formuláře a mobilní UI
 sidebar_label: HTML5 formuláře a mobilní UI
-sidebar_position: 4
 ---
 
 # HTML5 formuláře a mobilní UI

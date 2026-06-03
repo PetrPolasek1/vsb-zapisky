@@ -1,7 +1,6 @@
 ---
 title: Datové formáty
 sidebar_label: Datové formáty
-sidebar_position: 16
 ---
 
 # Datové formáty

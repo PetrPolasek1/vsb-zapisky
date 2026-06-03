@@ -1,7 +1,6 @@
 ---
 title: Minifikace a obfuskace
 sidebar_label: Minifikace a obfuskace
-sidebar_position: 20
 ---
 
 # Minifikace a obfuskace

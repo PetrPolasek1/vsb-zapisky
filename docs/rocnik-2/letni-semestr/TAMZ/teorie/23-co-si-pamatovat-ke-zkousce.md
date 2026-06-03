@@ -1,7 +1,6 @@
 ---
 title: Co si pamatovat ke zkoušce
 sidebar_label: Co si pamatovat ke zkoušce
-sidebar_position: 23
 ---
 
 # Co si pamatovat ke zkoušce

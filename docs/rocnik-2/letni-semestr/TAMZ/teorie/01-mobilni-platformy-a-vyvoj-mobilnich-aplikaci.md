@@ -1,7 +1,6 @@
 ---
 title: Mobilní platformy a vývoj mobilních aplikací
 sidebar_label: Mobilní platformy a vývoj mobilních aplikací
-sidebar_position: 1
 ---
 
 # Mobilní platformy a vývoj mobilních aplikací

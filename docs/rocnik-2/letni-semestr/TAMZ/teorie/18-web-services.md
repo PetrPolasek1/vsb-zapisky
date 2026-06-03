@@ -1,7 +1,6 @@
 ---
 title: Web services
 sidebar_label: Web services
-sidebar_position: 18
 ---
 
 # Web services

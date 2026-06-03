@@ -1,7 +1,6 @@
 ---
 title: Události pro hry a dotykové ovládání
 sidebar_label: Události pro hry a dotykové ovládání
-sidebar_position: 12
 ---
 
 # Události pro hry a dotykové ovládání

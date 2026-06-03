@@ -1,7 +1,6 @@
 ---
 title: JavaScript základy
 sidebar_label: JavaScript základy
-sidebar_position: 6
 ---
 
 # JavaScript základy

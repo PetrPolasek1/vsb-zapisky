@@ -1,10 +1,8 @@
 {
   "label": "TAMZ – Tvorba aplikací pro mobilní zařízení I",
   "position": 5,
-  "collapsible": true,
-  "collapsed": false,
   "link": {
     "type": "doc",
-    "id": "index"
+    "id": "rocnik-2/letni-semestr/TAMZ/index"
   }
 }
